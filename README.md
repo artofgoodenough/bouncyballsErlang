@@ -26,7 +26,7 @@ Eshell V10.6.4  (abort with ^G)
 <0.95.0>
 5>
 ```
-###The client
+### The Client
 The client is an SDL GUI C++ Application that's located in the sdlClient directory. However, you must have SDL2 to build.
 
 To install SDL2 on Debian Linux Systems,
